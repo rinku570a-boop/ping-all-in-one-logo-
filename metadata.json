@@ -1,0 +1,7 @@
+{
+  "name": "Ping Online - my customers",
+  "description": "A comprehensive Bengali-language business automation tool for Ping Online, managing customers, billing, field workers, and real-time financial reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
